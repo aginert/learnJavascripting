@@ -8,4 +8,7 @@ Yo, ya los he completado:
 
 ![Alt text](img/Captura%20de%20pantalla%202019-01-07%2015.53.55.png "Ejercicios Completados")
 
+
+También relicé los ejercicios de node y git, de nodeschool. Es buena idea hacerlos.
+
 Gracias :)!
